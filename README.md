@@ -1,8 +1,12 @@
 # TIL
 > Today I Learned
 
-* TILs: 5
-* Topics: 3
+* TILs: 6
+* Topics: 4
+
+## bash
+
+* [`set_of_commands`](bash/set_of_commands.md) Output multiple commands as a single stream (2020-04-21)
 
 ## Python
 
