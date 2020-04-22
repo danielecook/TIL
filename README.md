@@ -1,12 +1,16 @@
 # TIL
 > Today I Learned
 
-* TILs: 6
-* Topics: 4
+* TILs: 7
+* Topics: 5
 
 ## bash
 
 * [`set_of_commands`](bash/set_of_commands.md) Output multiple commands as a single stream (2020-04-21)
+
+## Nextflow
+
+* [`sort_collect_file`](Nextflow/sort_collect_file.md) Sort lines in a file assembled using `collectFile` with a closure (2020-04-21)
 
 ## Python
 
