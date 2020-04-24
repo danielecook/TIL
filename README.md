@@ -1,7 +1,7 @@
 # TIL
 > Today I Learned
 
-* TILs: 8
+* TILs: 9
 * Topics: 6
 
 ## bash
@@ -19,6 +19,7 @@
 
 ## R
 
+* [`operators`](R/operators.md) R operators (`||` vs `|`, `&&` vs `&`) (2020-04-23)
 * [`row_iterator`](R/row_iterator.md) Iterate over a set of rows in rows R (2020-04-22)
 
 ## slurm
