@@ -1,12 +1,16 @@
 # TIL
 > Today I Learned
 
-* TILs: 9
-* Topics: 6
+* TILs: 10
+* Topics: 7
 
 ## bash
 
 * [`set_of_commands`](bash/set_of_commands.md) Output multiple commands as a single stream (2020-04-22)
+
+## github
+
+* [`build-and-pub-docker`](github/build-and-pub-docker.md) Build and publish a docker container using GitHub Actions (2020-04-25)
 
 ## Nextflow
 
