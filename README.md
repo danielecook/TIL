@@ -1,8 +1,12 @@
 # TIL
 > Today I Learned
 
-* TILs: 10
-* Topics: 7
+* TILs: 11
+* Topics: 8
+
+## Alfred
+
+* [`custom_search`](Alfred/custom_search.md) Useful custom search engines for Alfred (2020-04-26)
 
 ## bash
 
