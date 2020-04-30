@@ -1,7 +1,7 @@
 # TIL
 > Today I Learned
 
-* TILs: 11
+* TILs: 12
 * Topics: 8
 
 ## Alfred
@@ -10,6 +10,7 @@
 
 ## bash
 
+* [`draw_a_box`](bash/draw_a_box.md) Create boxed text using a bash alias (2020-04-29)
 * [`set_of_commands`](bash/set_of_commands.md) Output multiple commands as a single stream (2020-04-22)
 
 ## github
