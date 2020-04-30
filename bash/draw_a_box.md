@@ -2,19 +2,19 @@
 
 Add this to your `.bashrc`:
 
-```
+```bash
 function box {
-  size=${#1}
-  printf '#'
-  printf '=%.0s' $(seq 1 $(( ${size} + 6 )))
-  printf '#\n'
-  echo -n "#   "
-  echo -n ${1}
-  echo -n "   #"
-  printf '\n'
-  printf '#'
-  printf '=%.0s' $(seq 1 $(( ${size} + 6 )))
-  printf '#\n'
+    size=${#1}
+    printf '#'
+    printf '=%.0s' $(seq 1 $(( ${size} + 6 )))
+    printf '#\n'
+    echo -n "#   "
+    echo -n ${1}
+    echo -n "   #"
+    printf '\n'
+    printf '#'
+    printf '=%.0s' $(seq 1 $(( ${size} + 6 )))
+    printf '#\n'
 }
 ```
 
