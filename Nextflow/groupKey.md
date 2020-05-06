@@ -2,9 +2,9 @@
 
 If you use the [`groupTuple` operator](https://www.nextflow.io/docs/latest/operator.html?highlight=groupkey#grouptuple) in Nextflow, you should know about the `groupKey` function (see the "tip" section in the documentaiton under `groupTuple`).
 
-A `groupKey` can specify the number of entries that are part of a `groupTuple`. This has two major benefits:
+A `groupKey` can specify the number of entries that are part of a grouping. This has two major benefits:
 
-1. It prevents blocking. Nextflow "flows" data through channels. Any grouping operation will necesarily have to observe the entire "flow", or all data before being able to accurately group, unless you can tell Nextflow how many elements are part of a group.
+1. It prevents blocking. Nextflow "flows" data through channels. Any grouping operation will necesarily have to observe the entire "flow", or all data before being able to group items unless you can tell how many elements are part of a group. In the latter case, once that number of elements has been seen they can be grouped and sent to the next process.
 2. In my experience, it prevents caching issues. I am not sure why.
 
 Consider the following example. Each row corresponds to data flowing through Nextflows channels.
