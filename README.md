@@ -1,7 +1,7 @@
 # TIL
 > Today I Learned
 
-* TILs: 12
+* TILs: 13
 * Topics: 8
 
 ## Alfred
@@ -19,6 +19,7 @@
 
 ## Nextflow
 
+* [`groupKey`](Nextflow/groupKey.md) Use the `groupKey` operator to prevent blocks and improve caching (2020-05-06)
 * [`sort_collect_file`](Nextflow/sort_collect_file.md) Sort lines in a file assembled using `collectFile` with a closure (2020-04-22)
 
 ## Python
