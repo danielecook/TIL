@@ -22,7 +22,7 @@ Consider the following example. Each row corresponds to data flowing through Nex
 my_data = Channel.fromPath("input.tsv", checkIfExists: true)
  	             .splitCsv(header:true, sep: "\t")
 
-grouped_data = my_data.map { row -> [groupKey(row.letter, row.n_obs), var_x] }
+grouped_data = my_data.map { row -> [groupKey(row.letter, row.n_obs), row.var_x] }
 		  			  .groupTuple(by:0)
 
 ```
