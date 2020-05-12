@@ -4,7 +4,7 @@ This handy script can be used to add parallel downloads with progress bars in Py
 
 It uses `urlretrieve` instead of the requests library which allows you to download URLs from `ftp://`.
 
-```
+```python
 import os
 from concurrent.futures import ThreadPoolExecutor
 from typing import Iterable
