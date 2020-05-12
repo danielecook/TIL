@@ -1,7 +1,7 @@
 # TIL
 > Today I Learned
 
-* TILs: 13
+* TILs: 14
 * Topics: 8
 
 ## Alfred
@@ -19,12 +19,13 @@
 
 ## Nextflow
 
-* [`groupKey`](Nextflow/groupKey.md) Use the `groupKey` operator to prevent blocks and improve caching (2020-05-06)
+* [`groupKey`](Nextflow/groupKey.md) Use the `groupKey` operator to prevent blocks and improve caching (2020-05-07)
 * [`sort_collect_file`](Nextflow/sort_collect_file.md) Sort lines in a file assembled using `collectFile` with a closure (2020-04-22)
 
 ## Python
 
 * [`lru_cache`](Python/lru_cache.md) memoization using lru-cache (2020-04-22)
+* [`parallel_downloads`](Python/parallel_downloads.md) Parallel downloads with progress bars using urlretrieve (2020-05-12)
 * [`pipreqs`](Python/pipreqs.md) Managing Python requirements.txt (2020-04-22)
 
 ## R
