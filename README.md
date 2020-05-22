@@ -1,7 +1,7 @@
 # TIL
 > Today I Learned
 
-* TILs: 15
+* TILs: 16
 * Topics: 9
 
 ## Alfred
@@ -39,6 +39,7 @@
 
 ## slurm
 
+* [`backdoor-node`](slurm/backdoor-node.md) Run a 'backdoor' interactive node (2020-05-22)
 * [`job-summary`](slurm/job-summary.md) Dump metrics for all slurm jobs (2020-04-22)
 
 ## SQL
