@@ -1,7 +1,7 @@
 # TIL
 > Today I Learned
 
-* TILs: 16
+* TILs: 17
 * Topics: 9
 
 ## Alfred
@@ -34,6 +34,7 @@
 
 ## R
 
+* [`gsheet_preview`](R/gsheet_preview.md) Open dataset in google sheets (2020-05-22)
 * [`operators`](R/operators.md) R operators (`||` vs `|`, `&&` vs `&`) (2020-04-23)
 * [`row_iterator`](R/row_iterator.md) Iterate over a set of rows in rows R (2020-04-22)
 
