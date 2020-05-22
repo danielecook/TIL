@@ -1,8 +1,8 @@
 # TIL
 > Today I Learned
 
-* TILs: 14
-* Topics: 8
+* TILs: 15
+* Topics: 9
 
 ## Alfred
 
@@ -12,6 +12,10 @@
 
 * [`draw_a_box`](bash/draw_a_box.md) Create boxed text using a bash alias (2020-04-29)
 * [`set_of_commands`](bash/set_of_commands.md) Output multiple commands as a single stream (2020-04-22)
+
+## docker
+
+* [`run_alias`](docker/run_alias.md) Docker alias for quickly running images (2020-05-21)
 
 ## github
 
