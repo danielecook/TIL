@@ -2,6 +2,8 @@
 
 The following function can be used to calculate the number and heterozygosity rate at a site level.
 
+Largely based on [biostars-291147](https://www.biostars.org/p/291147/)
+
 ```bash
 function heterozygosity_per_site {
     vcf=${1}
