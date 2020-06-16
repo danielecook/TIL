@@ -1,7 +1,7 @@
 # TIL
 > Today I Learned
 
-* TILs: 19
+* TILs: 20
 * Topics: 10
 
 ## Alfred
@@ -10,6 +10,7 @@
 
 ## bash
 
+* [`download_if`](bash/download_if.md) Download file if it is not present (2020-06-16)
 * [`draw_a_box`](bash/draw_a_box.md) Create boxed text using a bash alias (2020-05-22)
 * [`set_of_commands`](bash/set_of_commands.md) Output multiple commands as a single stream (2020-05-22)
 
@@ -51,5 +52,5 @@
 
 ## VCF
 
-* [`calculate_het_rate`](VCF/calculate_het_rate.md) Calculate the heterozygosity rate at per-site from a VCF (2020-05-29)
+* [`calculate_het_rate`](VCF/calculate_het_rate.md) Calculate the heterozygosity rate at per-site from a VCF (2020-06-06)
 
